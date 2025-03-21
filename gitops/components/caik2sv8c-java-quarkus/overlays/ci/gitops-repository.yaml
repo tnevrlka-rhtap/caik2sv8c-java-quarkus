@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: caik2sv8c-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/caik2sv8c-java-quarkus-gitops
